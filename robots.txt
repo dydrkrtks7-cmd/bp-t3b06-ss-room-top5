@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeomchang-karaoke-bar-note.nonhyeonnight.xyz/sitemap.xml
